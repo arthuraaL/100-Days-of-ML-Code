@@ -7,4 +7,4 @@
 
 ## Day 2 - 21/05/2021:
 * Completed the [Intro to Machine Learning course](https://www.kaggle.com/arthbr11/exercise-machine-learning-competitions).
-* 
+* Started to study Decision Trees and Ensemble methods.
