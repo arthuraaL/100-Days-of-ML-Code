@@ -23,4 +23,5 @@ Gini impurity - Qual a probabilidade de um elemento do meu conjunto de dados ser
 
 To compute the gini impurity we sum, over all classes, the probability p_i of an item being chosen times the incorrect probability of that item.
 
+<img src="https://render.githubusercontent.com/render/math?math=I_G = 1 - \limits _{i=1} ^{J} p_i ^ 2">
 $I_G = 1 - \limits _{i=1} ^{J} p_i ^ 2$
