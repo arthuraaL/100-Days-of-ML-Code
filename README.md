@@ -14,5 +14,5 @@
 * Started a classification problem on the [Diabetes dataset](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
 
 ## Day 4 - 26/05/2021:
-* Completed the classification task using [Decision trees](github/arthuraaL/100-Days-of-ML-Code/blob/master/Decision-Tree)
+* Completed the classification task using [Decision trees](https://github.com/arthuraaL/100-Days-of-ML-Code/tree/main/Decision-Tree)
 * Studied a little about some pruning techniques of Decision trees
