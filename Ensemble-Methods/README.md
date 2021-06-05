@@ -10,5 +10,5 @@
 #### Bagging and Pasting
 ---
 * One approach is to use the same training algorithm for every predictor, but use random subsets of the training data.
-    * Bagging - When sampling with replacement (the same traning instance can be resampled more than once);
-    * Pasting - Withour replacement.
+    * Bagging - When sampling *with* replacement (the same traning instance can be resampled more than once);
+    * Pasting - When sampling *without* replacement;
