@@ -18,5 +18,6 @@
 * Studied a little about some pruning techniques of Decision trees
 
 ## Day 5 - 05/06/2021:
-* Started a classification problem on the [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris) on Kaggle
 * Studying about Ensemble methods and Random Forests
+* Performed a classification task on the [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris) using Bagging classifier on [Kaggle](https://www.kaggle.com/arthbr11/a-simple-bagging-classifier-on-the-iris-dataset).
+
